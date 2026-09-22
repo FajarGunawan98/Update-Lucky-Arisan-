@@ -4,7 +4,7 @@
   "description": "Undian arisan dengan roda putar dan globe bola beranimasi",
   "start_url": "./index.html",
   "scope": "./",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#eef6f2",
   "theme_color": "#c8283f",

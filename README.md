@@ -37,8 +37,6 @@ Silahkan pakai, modifikasi, dan sebarkan secara GRATIS untuk kebaikan bersama.
 
 > Dibuat dengan ❤️ 
 
-### 🤝 Kontribusi
-Punya ide fitur baru? Silahkan fork repo ini dan buat Pull Request!
 
 ---
 **© 2026 fajargunawan98 - Freeware, Not for Sale**
